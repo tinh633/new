@@ -1,9 +1,5 @@
 # Workflow: Phân Khúc Khách Hàng Bằng Phương Pháp Clustering
 
-> Tài liệu đặc tả quy trình (spec) — dùng để hướng dẫn AI hoặc lập trình viên sinh code rõ ràng, có cấu trúc module hóa, dễ đọc, dễ bảo trì và đúng chuẩn khoa học dữ liệu.
-
----
-
 ## Mục Lục
 
 1. [Tổng Quan Dự Án](#1-tổng-quan-dự-án)
